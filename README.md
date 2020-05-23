@@ -5,3 +5,4 @@ start by rust
 
 ## 文档目录
 * [1. 安装与环境配置](docs/installation.md)
+* [2. 基本用法](docs/basis.md)

@@ -11,8 +11,12 @@
 [source.crates-io]
 registry = "https://github.com/rust-lang/crates.io-index"
 replace-with = 'ustc'
+//中科大源
 [source.ustc]
 registry = "git://mirrors.ustc.edu.cn/crates.io-index"
+//清华源
+[source.tuna]
+registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
 
 [http]
 timeout = 300                # timeout for each HTTP request, in seconds

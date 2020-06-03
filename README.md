@@ -7,3 +7,4 @@ start by rust
 * [1. 安装与环境配置](docs/installation.md)
 * [2. 基本用法](docs/basis.md)
 * [3. 所有权](docs/ownships.md)
+* [4. 结构体](docs/structs.md)

@@ -8,3 +8,4 @@ start by rust
 * [2. 基本用法](docs/basis.md)
 * [3. 所有权](docs/ownships.md)
 * [4. 结构体](docs/structs.md)
+* [5. 枚举与match匹配](docs/enums_and_pattern_matching.md)
